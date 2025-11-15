@@ -14,7 +14,7 @@ Automatically filters items as the user types, with smooth animations and a mode
 
 ## 🔗 Live Demo
 
-> 👉 **Live Site:** []()
+> 👉 **Live Site:** [https://dileep-kumawat.github.io/Dynamic-search-filter-using-html-css-and-js/](https://dileep-kumawat.github.io/Dynamic-search-filter-using-html-css-and-js/)
 
 ---
 
@@ -77,7 +77,7 @@ No results found
 Clone the project:
 
 ```sh
-git clone 
+git clone https://github.com/Dileep-kumawat/Dynamic-search-filter-using-html-css-and-js.git
 ```
 
 Open `index.html` in your browser — no build tools required.
